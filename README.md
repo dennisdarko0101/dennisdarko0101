@@ -1,66 +1,38 @@
 # Dennis Darko
 
-### Senior AI & Machine Learning Engineer | Vancouver, BC
+**Senior AI/ML Engineer focused on Production ML, Applied AI, RAG, LLM Systems and MLOps**
 
-Building production‑ready AI systems, scalable infrastructure, and research‑grade ML pipelines.
+[Visit my portfolio website](https://dennisdarko0101.github.io)
 
----
+I’m a senior AI/ML engineer with over six years of experience building production‑ready machine learning systems and scalable infrastructure. My work spans applied AI, MLOps, computer vision and NLP across logistics, health tech, banking/fintech, customer service, ecommerce, IoT and enterprise automation. I focus on reliability, observability, and engineering best practices while bridging research and production.
 
-## Professional Summary
+## Selected AI Systems
 
-I am a machine learning engineer with professional experience designing, building, and deploying AI systems at scale. My work spans classical ML, deep learning, and large language model infrastructure. I have delivered end‑to‑end solutions from data ingestion through inference and monitoring, with an emphasis on reliability, observability, and engineering excellence.
+Here are some of the projects I’ve built and maintained in the open:
 
-## Current Focus
+- **[RAG Pipeline Production](https://github.com/dennisdarko0101/rag-pipeline-production)**: End‑to‑end retrieval‑augmented generation pipeline with ingestion, embeddings, BM25, reranking, FastAPI serving, evaluation and testing.
+- **[AI Agent Framework](https://github.com/dennisdarko0101/ai-agent-framework)**: ReAct‑style agent framework using OpenAI and Anthropic patterns with tool calling, memory, routing and a FastAPI interface.
+- **[ML Model Serving Platform](https://github.com/dennisdarko0101/ml-model-serving-platform)**: Model serving platform with dynamic batching, canary releases, A/B testing, metrics and drift detection.
+- **[LLM Fine‑Tuning Pipeline](https://github.com/dennisdarko0101/llm-fine-tuning-pipeline)**: LoRA and QLoRA workflows for dataset preparation, training, evaluation and cost‑aware fine‑tuning.
+- **[LLM Guardrails & Safety](https://github.com/dennisdarko0101/llm-guardrails-safety)**: Validation suite for prompt injection, PII handling, hallucination checks and toxicity screening.
+- **[Automated ML Pipeline](https://github.com/dennisdarko0101/automated-ml-pipeline)**: Prefect‑orchestrated pipeline with MLflow tracking, model registry and champion‑challenger promotion.
+- Additional repositories such as [computer‑vision‑api](https://github.com/dennisdarko0101/computer-vision-api) and [nlp‑document‑processing](https://github.com/dennisdarko0101/nlp-document-processing) demonstrate my work in image and document understanding.
 
-- Developing an AI platform currently in development at Safua (under wraps until launch).
-- Exploring retrieval‑augmented generation (RAG), large language model fine‑tuning, and AI safety guardrails.
-- Building MLOps pipelines that bridge research and production.
+## Professional Experience
 
-## Core Expertise
+I’ve engineered ML and MLOps solutions across multiple industries:
 
-- **Programming:** Python, TypeScript, Bash
-- **Frameworks:** PyTorch, TensorFlow, FastAPI, LangChain, OpenAI SDK
-- **Infrastructure:** Docker, Kubernetes, Grafana/Prometheus, Redis, PostgreSQL, Vector databases
-- **MLOps & Cloud:** GitHub Actions, CI/CD, A/B testing, model versioning, container orchestration
+- **Machine Learning Engineer – GoMaterials, Montreal, QC (Feb 2025 – Dec 2025)**
+- **MLOps Engineer – Vosyn Inc., Etobicoke, ON (Sep 2024 – Dec 2024)**
+- **Machine Learning Engineer – Sinewy Technologies, London, UK (Sep 2019 – Aug 2024)**
+- **Software Engineer – Sinewy Technologies, London, UK (Aug 2017 – Aug 2019)**
 
-## Selected Projects
+For more details and a deeper look at my work, please see my portfolio website above.
 
-| Project | Description |
-| --- | --- |
-| **[rag‑pipeline‑production](https://github.com/dennisdarko0101/rag-pipeline-production)** | Production‑grade retrieval‑augmented generation pipeline with ingestion, hybrid retrieval, RRF, reranking, dual LLM generation, citation validation, evaluation dashboard, and containerized deployment. |
-| **[ai‑agent‑framework](https://github.com/dennisdarko0101/ai-agent-framework)** | Multi‑agent system implementing ReAct reasoning loop, with pluggable LLM providers, tool registry, memory backends, streaming support, and orchestration library. |
-| **[ml‑model‑serving‑platform](https://github.com/dennisdarko0101/ml-model-serving-platform)** | FastAPI service for managing ML models, A/B testing and canary deployments, drift detection, metrics collection via Prometheus/Grafana, and batch prediction router. |
-| **[llm‑fine‑tuning‑pipeline](https://github.com/dennisdarko0101/llm-fine-tuning-pipeline)** | Framework for fine‑tuning large language models with LoRA adapters, parameter efficient tuning, experiment tracking, and evaluation. |
-| **[automated‑ml‑pipeline](https://github.com/dennisdarko0101/automated-ml-pipeline)** | End‑to‑end ML pipeline with data processing, model training, evaluation, packaging, and deployment automation. |
-| **[llm‑guardrails‑safety](https://github.com/dennisdarko0101/llm-guardrails-safety)** | Guardrail library integrating content filters and safety checks into LLM applications. |
+## Contact
 
-## Engineering Principles
+- **Email:** [dennisdarko0909@gmail.com](mailto:dennisdarko0909@gmail.com)
+- **LinkedIn:** [linkedin.com/in/dennis-darko](https://linkedin.com/in/dennis-darko)
+- **GitHub:** [dennisdarko0101](https://github.com/dennisdarko0101)
 
-- **Production First:** Design systems with reliability, observability, and scalability as primary goals.
-- **Maintainability:** Prefer clean architecture, modular design, and clear boundaries between components.
-- **Performance & Efficiency:** Optimize latency and throughput while balancing cost.
-- **Security & Safety:** Incorporate guardrails, monitoring, and evaluation to mitigate risks.
-
-## Experience
-
-- **Machine Learning Engineer, GoMaterials (2025)** – Built and maintained ML models for supply chain optimisation, improved inference latency, and deployed models via REST APIs.
-- **MLOps Engineer, Vosyn (2024)** – Developed CI/CD pipelines, automated training workflows, and implemented monitoring for production models.
-- **Machine Learning Engineer, Sinewy Technologies** – Delivered end‑to‑end ML solutions and collaborated with software engineers to integrate models into products.
-- **Software Engineer, Sinewy Technologies** – Developed backend services and contributed to the infrastructure underlying AI products.
-
-## Research Interests
-
-- Retrieval‑augmented generation (RAG) and hybrid retrieval techniques
-- Fine‑tuning and adaptation of large language models
-- Agentic systems and tool‑augmented reasoning
-- AI safety, evaluation, and guardrails
-
-## Get in Touch
-
-- **LinkedIn:** [linkedin.com/in/dennisdarko0101](https://www.linkedin.com/in/dennisdarko0101)
-- **Resume:** [View my resume](https://example.com) <!-- Provide actual resume link if available -->
-- **Email:** [dennis.darkos@example.com](mailto:dennis.darkos@example.com)
-
----
-
-_This profile README is intentionally concise and engineering focused. Please explore the repositories above for deep dives into architecture, code, and deployment._
+I’m based in Vancouver, BC, and I’m open to opportunities in senior AI engineering, MLOps, applied AI and LLM infrastructure. Feel free to reach out if you’d like to collaborate or discuss how these systems can drive impact.
