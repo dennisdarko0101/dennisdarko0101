@@ -1,77 +1,68 @@
 # Dennis Darko
 
-## Senior AI and ML Engineer
+**Senior AI/ML Engineer focused on production ML, applied AI, RAG, LLM systems and MLOps.**
 
-I build production machine learning, applied AI, RAG, LLM systems and MLOps infrastructure.
+I build reliable AI systems across pricing intelligence, retrieval, model serving, automation, computer vision, document processing and production monitoring.
 
-[Portfolio](https://dennisdarko0101.github.io) · [LinkedIn](https://linkedin.com/in/dennis-darko) · [GitHub](https://github.com/dennisdarko0101) · [Email](mailto:dennisdarko0909@gmail.com)
-
----
-
-## What I build
-
-I focus on the engineering layer that turns AI ideas into dependable systems: data ingestion, retrieval, model serving, evaluation, monitoring, guardrails and operational runbooks.
-
-My background spans logistics, health tech and complex imaging, fintech, customer service, speech AI, ecommerce, IoT and enterprise automation.
-
-## Selected systems
-
-### [RAG Pipeline Production](https://github.com/dennisdarko0101/rag-pipeline-production)
-Production RAG pipeline with ingestion, embeddings, BM25, semantic search, reranking, citation validation, evaluation, FastAPI, ChromaDB, Docker and tests.
-
-**Stack:** Python, FastAPI, ChromaDB, BM25, Docker, evaluation, retrieval systems
-
-### [AI Agent Framework](https://github.com/dennisdarko0101/ai-agent-framework)
-ReAct style agent framework with OpenAI and Anthropic API patterns, tool calling, memory, routing and FastAPI.
-
-**Stack:** Python, FastAPI, OpenAI, Anthropic, ChromaDB, tool calling, memory
-
-### [ML Model Serving Platform](https://github.com/dennisdarko0101/ml-model-serving-platform)
-Inference serving platform with canary releases, A/B testing, drift checks, Prometheus, Grafana and batching concepts.
-
-**Stack:** Python, FastAPI, Docker, Prometheus, Grafana, model serving
-
-### [Automated ML Pipeline](https://github.com/dennisdarko0101/automated-ml-pipeline)
-Prefect orchestration, MLflow tracking, model registry, champion challenger promotion and API deployment.
-
-**Stack:** Python, Prefect, MLflow, Docker, model registry, MLOps
-
-### [LLM Fine Tuning Pipeline](https://github.com/dennisdarko0101/llm-fine-tuning-pipeline)
-LoRA and QLoRA workflow for dataset preparation, training configuration, evaluation and cost aware adaptation.
-
-**Stack:** Python, PyTorch, LoRA, QLoRA, evaluation
-
-### [LLM Guardrails and Safety](https://github.com/dennisdarko0101/llm-guardrails-safety)
-Validation workflows for prompt injection, PII handling, hallucination checks, toxicity screening and rate limiting.
-
-**Stack:** Python, guardrails, PII handling, safety validation, LLM evaluation
-
-## Capability map
-
-**AI systems:** RAG, agents, tool calling, structured outputs, prompt engineering, guardrails, LLM evaluation  
-**ML engineering:** PyTorch, TensorFlow, OpenCV, model serving, A/B testing, drift checks  
-**MLOps:** Docker, Kubernetes, MLflow, DVC, CI/CD, monitoring, runbooks  
-**Backend and data:** Python, FastAPI, SQL, Databricks, Snowflake  
-**Cloud:** AWS, GCP, Azure
-
-## Experience
-
-**Machine Learning Engineer, GoMaterials**  
-Montreal, QC · Feb 2025 to Dec 2025
-
-**MLOps Engineer, Vosyn Inc.**  
-Etobicoke, ON · Sept 2024 to Dec 2024
-
-**Machine Learning Engineer, Sinewy Technologies**  
-London, UK · Sept 2019 to Aug 2024
-
-**Software Engineer, Sinewy Technologies**  
-London, UK · Aug 2017 to Aug 2019
-
-## Engineering principles
-
-I design for reliability, observability, evaluation quality, cost awareness, secure data handling and clear operational ownership.
+[Portfolio](https://dennisdarko0101.github.io) · [LinkedIn](https://linkedin.com/in/dennis-darko) · [Email](mailto:dennisdarko0909@gmail.com)
 
 ---
 
-Based in Vancouver, British Columbia.
+## About
+
+I have 6+ years building production machine learning, deep learning, backend, MLOps and applied AI systems across logistics, speech AI, health tech, fintech, ecommerce, IoT and enterprise automation.
+
+My work is focused on systems that can be measured, served, monitored and operated. I care about clean interfaces, reliable APIs, evaluation workflows, deployment discipline and responsible AI controls.
+
+## Selected AI systems
+
+| System | What it demonstrates | Stack |
+|---|---|---|
+| [Production RAG Pipeline](https://github.com/dennisdarko0101/rag-pipeline-production) | Retrieval with ingestion, embeddings, BM25, semantic search, reranking, citation validation, evaluation and tests | Python, FastAPI, ChromaDB, Docker, BM25 |
+| [AI Agent Framework](https://github.com/dennisdarko0101/ai-agent-framework) | ReAct style agents with OpenAI and Anthropic patterns, memory, routing and tool calling | Python, FastAPI, OpenAI, Anthropic, ChromaDB |
+| [ML Model Serving Platform](https://github.com/dennisdarko0101/ml-model-serving-platform) | Model serving with metrics, canary releases, A/B testing, drift checks and dynamic batching | FastAPI, Docker, Prometheus, Grafana |
+| [Automated ML Pipeline](https://github.com/dennisdarko0101/automated-ml-pipeline) | Orchestration, experiment tracking, model registry and champion challenger promotion | Prefect, MLflow, Docker, CI/CD |
+| [LLM Fine Tuning Pipeline](https://github.com/dennisdarko0101/llm-fine-tuning-pipeline) | LoRA and QLoRA style workflow for dataset preparation, training configuration and evaluation | PyTorch, LoRA, QLoRA, MLflow |
+| [LLM Guardrails and Safety](https://github.com/dennisdarko0101/llm-guardrails-safety) | Prompt injection checks, PII handling, hallucination checks, toxicity screening and rate limiting | Python, validation, guardrails |
+| [Computer Vision API](https://github.com/dennisdarko0101/computer-vision-api) | Image ingestion, preprocessing, OpenCV workflows and API serving | Python, OpenCV, FastAPI, Docker |
+| [NLP Document Processing](https://github.com/dennisdarko0101/nlp-document-processing) | Classification, entity extraction, semantic enrichment and workflow routing | NLP, transformers, FastAPI |
+
+## Production engineering focus
+
+- Data ingestion, validation and feature quality
+- Retrieval systems, embeddings, reranking and citation validation
+- Model training, evaluation and release gates
+- FastAPI model serving and containerized inference
+- Monitoring, drift checks, latency tracking and production runbooks
+- LLM safety, PII handling, fallback logic and responsible AI controls
+
+## Core stack
+
+**Applied AI and LLM systems:** OpenAI APIs, Anthropic Claude, Azure OpenAI, Gemini style APIs, RAG, tool calling, AI agents, structured outputs, guardrails and LLM evaluation.
+
+**Machine learning and deep learning:** PyTorch, TensorFlow, scikit learn, XGBoost, CatBoost, OpenCV, NLP, computer vision, recommendation systems and information retrieval.
+
+**MLOps and serving:** MLflow, DVC, Docker, Kubernetes, FastAPI, REST APIs, CI/CD, A/B testing, monitoring, drift checks and release validation.
+
+**Cloud and data:** AWS, GCP, Azure, SageMaker, Bedrock, Vertex AI, Azure ML, Databricks, Snowflake, BigQuery, S3, PostgreSQL and SQL.
+
+## Experience snapshot
+
+<p>
+  <img src="https://dennisdarko0101.github.io/assets/gomaterials-logo.png" alt="GoMaterials" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://dennisdarko0101.github.io/assets/vosyn-logo.png" alt="Vosyn" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://dennisdarko0101.github.io/assets/sinewy-technologies-logo.png" alt="Sinewy Technologies" height="34" />
+</p>
+
+- **Machine Learning Engineer, GoMaterials:** pricing intelligence, transportation cost prediction, vendor retrieval, quote support and logistics automation.
+- **MLOps Engineer, Vosyn Inc.:** cloud based delivery workflows, CI/CD, endpoint deployment, monitoring and production handoff.
+- **Machine Learning Engineer, Sinewy Technologies:** NLP automation, recommendation systems, computer vision workflows, predictive maintenance and monitoring standards.
+- **Software Engineer, Sinewy Technologies:** backend services, REST APIs, data pipelines and production tooling.
+
+## Contact
+
+- Portfolio: [dennisdarko0101.github.io](https://dennisdarko0101.github.io)
+- LinkedIn: [linkedin.com/in/dennis-darko](https://linkedin.com/in/dennis-darko)
+- Email: [dennisdarko0909@gmail.com](mailto:dennisdarko0909@gmail.com)
